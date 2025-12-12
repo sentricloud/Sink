@@ -29,7 +29,7 @@
   ],
   "routes": [
     {
-      "pattern": "link.rwick.it",
+      "pattern": "go.sentri.cloud",
       "custom_domain": true
     }  
   ]
