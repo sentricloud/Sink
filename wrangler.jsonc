@@ -26,5 +26,11 @@
       "binding": "KV",
       "id": "07a891f628d048a0bfe84734f550daa8" // IMPORTANT: Change this to your KV namespace ID
     }
+  ],
+  "routes": [
+    {
+      "pattern": "link.rwick.it",
+      "custom_domain": true
+    }  
   ]
 }
