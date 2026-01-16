@@ -10,6 +10,9 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
+  "vars": {
+    "NUXT_HOME_URL": "https://www.sentri.cloud"
+  },
   "keep_vars": true,
   "upload_source_maps": true,
   "ai": {
@@ -31,6 +34,6 @@
     {
       "pattern": "go.sentri.cloud",
       "custom_domain": true
-    }  
+    }
   ]
 }
